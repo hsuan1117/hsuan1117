@@ -1,5 +1,6 @@
 ### I'm Hsuan
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuan1117&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Koios1143&hide=html)
 
 <!--
 **hsuan1117/hsuan1117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
